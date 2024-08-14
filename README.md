@@ -1,6 +1,5 @@
 # Customer_Churn_Prediction
 # About Dataset
-# File Description:
 The dataset contains information about customers and their churn status. Each row represents a customer, and each column contains customer attributes and information.
 
 # Column Descriptions:
